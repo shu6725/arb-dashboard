@@ -1,0 +1,4 @@
+ccxt==4.4.38
+pandas==2.2.3
+dash==2.18.2
+aiohttp==3.9.5
